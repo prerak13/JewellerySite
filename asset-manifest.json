@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JewellerySite/static/css/main.bb9f2a67.chunk.css",
-    "main.js": "/JewellerySite/static/js/main.1792de8f.chunk.js",
-    "main.js.map": "/JewellerySite/static/js/main.1792de8f.chunk.js.map",
+    "main.js": "/JewellerySite/static/js/main.d1cc02fe.chunk.js",
+    "main.js.map": "/JewellerySite/static/js/main.d1cc02fe.chunk.js.map",
     "runtime-main.js": "/JewellerySite/static/js/runtime-main.a0d8bc29.js",
     "runtime-main.js.map": "/JewellerySite/static/js/runtime-main.a0d8bc29.js.map",
     "static/css/2.0adfe8f7.chunk.css": "/JewellerySite/static/css/2.0adfe8f7.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.0adfe8f7.chunk.css",
     "static/js/2.331db787.chunk.js",
     "static/css/main.bb9f2a67.chunk.css",
-    "static/js/main.1792de8f.chunk.js"
+    "static/js/main.d1cc02fe.chunk.js"
   ]
 }
