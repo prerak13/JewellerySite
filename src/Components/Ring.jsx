@@ -78,7 +78,7 @@ function Copyright() {
   
   const cards = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   
-  export default function Album() {
+  export default function Ring() {
     const classes = useStyles();
     const [isOpen, setIsOpen] = useState(false);
     const toggle = () => setIsOpen(!isOpen);
@@ -89,18 +89,7 @@ function Copyright() {
         <CssBaseline />
         
         <main>
-          {/* Hero unit */}
-          <div className={classes.heroContent}>
-            <Container maxWidth="sm">
-              <Typography component="h1" variant="h2" align="center" color="textPrimary" gutterBottom>
-              Jewellery Gallary
-              </Typography>
-              <Typography variant="h5" align="center" color="textSecondary" paragraph>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quia unde numquam suscipit aut! Veniam rerum, labore iste eaque nihil dolorum at pariatur eveniet dolor vel maxime corrupti aliquid quibusdam!
-              </Typography>
-               
-            </Container>
-          </div>
+        
           <Container className={classes.cardGrid} maxWidth="md">
             {/* End hero unit */}
             <ImageGallery items={images} />;
